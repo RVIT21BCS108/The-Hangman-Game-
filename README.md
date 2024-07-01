@@ -1,1 +1,1 @@
-# The-Hangman-Game-
+This Hangman game project is a simple implementation of the classic word-guessing game. The game randomly selects a word from a predefined list, and the player tries to guess the word one letter at a time. The player has a limited number of lives, which decrease with each incorrect guess. The game provides feedback on the letters guessed and informs the player if they've already guessed a letter or if a guessed letter is not in the word. The game ends when the player either correctly guesses the word or runs out of lives.
